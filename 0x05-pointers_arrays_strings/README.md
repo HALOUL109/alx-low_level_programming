@@ -1,1 +1,1 @@
-5454
+pointers arrays strings
