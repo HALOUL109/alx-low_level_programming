@@ -1,1 +1,1 @@
-dfgfd
+pointers arrays strings
